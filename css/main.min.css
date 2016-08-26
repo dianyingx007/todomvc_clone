@@ -234,6 +234,15 @@ img {
 	border-radius: .3em;
 }
 
+a.button:hover {
+	color: inherit;
+	text-decoration: none;
+}
+
+a.button.red:hover {
+	color: white;
+}
+
 header p {
 	font-size: 30px;
 	line-height: 1.2;
